@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [옴니어스 스튜디오 개요](README.md)
 
